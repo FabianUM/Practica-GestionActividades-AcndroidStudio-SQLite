@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PC2 - Fabian Urcia Mendives</string>
+    <string-array name="estados_array">
+        <item>Pendiente</item>
+        <item>En Progreso</item>
+        <item>Completado</item>
+    </string-array>
+</resources>
